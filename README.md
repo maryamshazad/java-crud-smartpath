@@ -14,14 +14,23 @@ a console-based interface, with data stored in text files.
 ### Tutor Management
 - Add Tutors <img width="193" height="124" alt="Screenshot 2026-02-28 152742" src="https://github.com/user-attachments/assets/b4d62aa1-f29c-4154-8cd5-7e67c42166bc" />
 
+
+
 - Edit Tutor details <img width="190" height="120" alt="Screenshot 2026-02-28 152827" src="https://github.com/user-attachments/assets/7b812af7-1a43-4f55-9871-5592d3559e3e" />
 
+
+
 - Remove Tutors <img width="190" height="120" alt="Screenshot 2026-02-28 152840" src="https://github.com/user-attachments/assets/6b4bc984-37a1-4458-83dc-2696b55a3e22" />
+
+
 
 - Search for Tutors <img width="190" height="120" alt="Screenshot 2026-02-28 152856" src="https://github.com/user-attachments/assets/eb594ca5-1c46-445e-bc81-e5b7895e80e7" />
 
 
+
+
 ### Student Management
+
 - Add students <img width="190" height="120" alt="Screenshot 2026-02-28 152925" src="https://github.com/user-attachments/assets/8adcfc37-50a1-47cc-9762-39433d1a723f" />
 
 
@@ -31,6 +40,8 @@ a console-based interface, with data stored in text files.
 
 ### Booking Management
 - Add bookings <img width="190" height="120" alt="Screenshot 2026-02-28 152951" src="https://github.com/user-attachments/assets/2a840543-79d8-43ba-a9d7-95fa97179143" />
+
+
 
 - Edit bookings <img width="190" height="120" alt="image" src="https://github.com/user-attachments/assets/da7bccff-0714-4d04-9e1d-941c908e15a1" />
 
