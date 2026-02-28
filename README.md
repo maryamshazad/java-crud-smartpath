@@ -4,6 +4,10 @@ A Java application implementing CRUD (Create, Read, Update, Delete) functionalit
 for managing a tutoring system. The project includes both a GUI interface and 
 a console-based interface, with data stored in text files.
 
+## Login Details:
+- Username : Staff
+- Password: Password1!
+
 ## Features
 
 ### Student Management
