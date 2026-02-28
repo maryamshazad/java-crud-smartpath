@@ -12,43 +12,43 @@ a console-based interface, with data stored in text files.
 ## Features
 
 ### Tutor Management
-- Add Tutors <img width="193" height="124" alt="Screenshot 2026-02-28 152742" src="https://github.com/user-attachments/assets/b4d62aa1-f29c-4154-8cd5-7e67c42166bc" />
+- Add Tutors
+- Edit Tutor details 
+- Remove Tutors
+- Search for Tutors
 
+ <img width="193" height="124" alt="Screenshot 2026-02-28 152742" src="https://github.com/user-attachments/assets/b4d62aa1-f29c-4154-8cd5-7e67c42166bc" />
 
+<img width="190" height="120" alt="Screenshot 2026-02-28 152827" src="https://github.com/user-attachments/assets/7b812af7-1a43-4f55-9871-5592d3559e3e" />
 
-- Edit Tutor details <img width="190" height="120" alt="Screenshot 2026-02-28 152827" src="https://github.com/user-attachments/assets/7b812af7-1a43-4f55-9871-5592d3559e3e" />
+ <img width="190" height="120" alt="Screenshot 2026-02-28 152840" src="https://github.com/user-attachments/assets/6b4bc984-37a1-4458-83dc-2696b55a3e22" />
 
-
-
-- Remove Tutors <img width="190" height="120" alt="Screenshot 2026-02-28 152840" src="https://github.com/user-attachments/assets/6b4bc984-37a1-4458-83dc-2696b55a3e22" />
-
-
-
-- Search for Tutors <img width="190" height="120" alt="Screenshot 2026-02-28 152856" src="https://github.com/user-attachments/assets/eb594ca5-1c46-445e-bc81-e5b7895e80e7" />
-
-
-
+ <img width="190" height="120" alt="Screenshot 2026-02-28 152856" src="https://github.com/user-attachments/assets/eb594ca5-1c46-445e-bc81-e5b7895e80e7" />
 
 ### Student Management
 
-- Add students <img width="190" height="120" alt="Screenshot 2026-02-28 152925" src="https://github.com/user-attachments/assets/8adcfc37-50a1-47cc-9762-39433d1a723f" />
-
-
-- Edit student details <img width="190" height="120" alt="Screenshot 2026-02-28 152938" src="https://github.com/user-attachments/assets/5c32848f-4a0e-45d3-8589-7d639d85549f" />
-
+- Add students 
+- Edit student details
 - Delete tutors 
 
+<img width="190" height="120" alt="Screenshot 2026-02-28 152925" src="https://github.com/user-attachments/assets/8adcfc37-50a1-47cc-9762-39433d1a723f" />
+<img width="190" height="120" alt="Screenshot 2026-02-28 152938" src="https://github.com/user-attachments/assets/5c32848f-4a0e-45d3-8589-7d639d85549f" />
+
 ### Booking Management
-- Add bookings <img width="190" height="120" alt="Screenshot 2026-02-28 152951" src="https://github.com/user-attachments/assets/2a840543-79d8-43ba-a9d7-95fa97179143" />
+- Add bookings
 
-
-
-- Edit bookings <img width="190" height="120" alt="image" src="https://github.com/user-attachments/assets/da7bccff-0714-4d04-9e1d-941c908e15a1" />
+- Edit bookings
 
 - Remove bookings
 
+ <img width="190" height="120" alt="Screenshot 2026-02-28 152951" src="https://github.com/user-attachments/assets/2a840543-79d8-43ba-a9d7-95fa97179143" />
+ <img width="190" height="120" alt="image" src="https://github.com/user-attachments/assets/da7bccff-0714-4d04-9e1d-941c908e15a1" />
+
+
 ### File Management
-- Save all data to files <img width="190" height="120" alt="Screenshot 2026-02-28 153024" src="https://github.com/user-attachments/assets/7b2536eb-5e41-48f6-8f99-22f6147ec219" />
+- Save all data to files
+
+ <img width="190" height="120" alt="Screenshot 2026-02-28 153024" src="https://github.com/user-attachments/assets/7b2536eb-5e41-48f6-8f99-22f6147ec219" />
 
   
 
